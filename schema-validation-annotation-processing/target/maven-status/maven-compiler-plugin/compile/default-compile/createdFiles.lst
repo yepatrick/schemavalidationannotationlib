@@ -1,0 +1,3 @@
+META-INF/services/javax.annotation.processing.Processor
+com/patye/schema/validation/annotation/SchemaValidationEnabled.class
+com/patye/schema/validation/annotation/SchemaValidationEnabledProcessor.class
